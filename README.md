@@ -6,6 +6,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Conclusions](#conclusions)
 
 ## General Information
 - What is the background of your project?
