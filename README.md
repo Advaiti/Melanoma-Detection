@@ -1,4 +1,4 @@
-# Melanoma-Detection-using-Convolutional-Neural-Network-Case-Study
+# Melanoma-Detection-using-Convolutional-Neural-Network
 
 > This assignment is to build a multiclass classification model using a custom convolutional neural network in TensorFlow.
 
