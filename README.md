@@ -6,7 +6,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Conclusions](#conclusions)
+
 
 ## General Information
 - What is the background of your project?
@@ -35,6 +35,27 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 
 - Google Colab
 - tensorFlow v2.11.0
+
+## Conclusions
+
+The results demonstrate remarkable improvement following the application of dataset augmentation techniques. The model achieved an impressive training accuracy of 0.9582 and a commendable validation accuracy of 0.9236 at 29 epochs, signifying a well-trained and robust model.
+
+- Highlights of the Results:
+Enhanced Generalization:
+
+The close alignment between training and validation accuracy indicates that the model is generalizing well to unseen data. This reflects the effectiveness of augmentation in reducing overfitting and improving performance.
+Consistent Training Progress:
+
+The training loss steadily decreased over epochs, confirming that the model optimized its parameters effectively.
+Validation loss followed a similar trend, with only minor fluctuations, suggesting stability in the model's generalization capacity.
+Performance Metrics:
+
+Achieving over 95.8% accuracy on the training set and maintaining 92.4% accuracy on the validation set underscores the success of dataset augmentation in enhancing the model's ability to learn from diverse patterns in the data.
+Positive Outcomes of Dataset Augmentation:
+The use of augmentation has enriched the training process by exposing the model to a wider variety of scenarios, making it more robust to variations in data. This directly contributes to the superior performance observed compared to previous models.
+
+Conclusion:
+These results highlight the effectiveness of the current approach, showcasing how careful preprocessing and augmentation can significantly boost a model's performance. This paves the way for further fine-tuning or testing on additional datasets to validate its scalability and real-world application.
 
 ## Contact
 Created by [puspanjalis](https://github.com/puspanjalis) - feel free to contact me!
