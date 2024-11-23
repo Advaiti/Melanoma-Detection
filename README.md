@@ -33,9 +33,7 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 - Vascular lesion
 
 ## Technologies Used
-
-- Google Colab
-- tensorFlow v2.11.0
+- tensorFlow v2.18.0
 
 ## Conclusions
 
