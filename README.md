@@ -40,7 +40,6 @@ NOTE: You don't have to use any pre-trained model using Transfer learning. All t
 - Train the model for ~20 epochs
 - Write your findings after the model fit, see if there is evidence of model overfit or underfit
 - Choose an appropriate data augmentation strategy to resolve underfitting/overfitting
-- 
 **Model Building & training on the augmented data :**
   - Create a CNN model, which can accurately detect 9 classes present in the dataset. While building the model rescale images to normalize pixel values between (0,1).
   - Choose an appropriate optimiser and loss function for model training
