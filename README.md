@@ -61,4 +61,4 @@ The use of augmentation has enriched the training process by exposing the model 
 These results highlight the effectiveness of the current approach, showcasing how careful preprocessing and augmentation can significantly boost a model's performance. This paves the way for further fine-tuning or testing on additional datasets to validate its scalability and real-world application.
 
 ## Contact
-Created by [puspanjalis](https://github.com/puspanjalis) - feel free to contact me!
+Created by [Chidambaram Ananthakrishnan](https://www.linkedin.com/in/chidambaram-ananthakrishnan/)
